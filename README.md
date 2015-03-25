@@ -1,4 +1,6 @@
-# Dropbox-Zendesk Integration
+# Forked this to save my OAuth flow I created that has since been replaced in the original version
+
+## Dropbox-Zendesk Integration
 
 This app sends attachments from Zendesk tickets to Dropbox
 
@@ -17,5 +19,3 @@ This app sends attachments from Zendesk tickets to Dropbox
 ##### 2. When not signed in to Dropbox
 
 ![](http://g.recordit.co/sxttJsEq5o.gif)
-
-# Forked this to save my OAuth flow I created that has since been replaced in the original version.
